@@ -29,6 +29,7 @@ class PetShop:
 
 # Stuff that our factory makes
 
+
 class Dog:
     def speak(self):
         return "woof"
